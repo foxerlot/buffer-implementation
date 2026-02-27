@@ -15,7 +15,7 @@ typedef struct {
 } buffer;
 ```
 
-This data-structure is designed to be ver simple, and fundamentally just an array of strings.<br>
+This data-structure is designed to be very simple, and fundamentally just an array of strings.<br>
 
 There are very few methods:
 ```c
